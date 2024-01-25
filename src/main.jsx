@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     domain="dev-d55c2jqrk4oup2gr.us.auth0.com"
     clientId="u3wMRq5gzDkImqvR0GXVIvgPQBwOTQb6"
     authorizationParams={{
-      redirect_uri: "http://127.0.0.1:5173/",
+      redirect_uri: "https://real-estate-front-end-eqw7.vercel.app/",
     }}
     // audience="https://pear-frail-walkingstick.cyclic.app/"
     audience="https://real-estate-back-end-poy2.vercel.app/"
