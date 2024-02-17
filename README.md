@@ -1,4 +1,4 @@
-# Welcome to Glossier - Where Beauty Meets Simplicity
+# Welcome to Homyz
 
 
 
